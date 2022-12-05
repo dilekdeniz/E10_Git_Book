@@ -1,2 +1,3 @@
 Git is Version Control System .It is local software installed on your computer for keeping track of changes for files and folders.
 Tracking of changes
+GitHub is an online hosting platform for git repository with lots of collabration features
