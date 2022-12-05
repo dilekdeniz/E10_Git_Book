@@ -1,0 +1,1 @@
+Git is Version Control System .It is local software installed on your computer for keeping track of changes for files and folders
